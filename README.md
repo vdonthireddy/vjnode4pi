@@ -1,6 +1,6 @@
 Let's create a simple nodejs app and deploy it in AKS
 
-We have initiatd the npm in this folder, which created a number of files
+We have initiated the npm in this folder, which created a number of files
 
 ```sh
 $ npm init
