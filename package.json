@@ -1,7 +1,7 @@
 {
   "name": "vjnode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Let's create a simple nodejs app and deploy it in AKS",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "request": "^2.88.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdonthireddy/vjnode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vdonthireddy/vjnode/issues"
+  },
+  "homepage": "https://github.com/vdonthireddy/vjnode#readme"
 }
