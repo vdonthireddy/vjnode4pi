@@ -3,9 +3,7 @@ Let's create a simple nodejs app and deploy it in AKS
 We have initiated the npm in this folder, which created a number of files
 
 ```sh
-$ npm init
 $ npm install
-$ npm install express
 ```
 
 we created an app.js which is the main javascript file that has the code to start the web server and take a request at "/"
@@ -24,6 +22,7 @@ if you want to test it in a terminal, you can do...
 
 ```sh
 $ curl http://localhost:8080
+$ curl http://localhost:8080/index
 ```
 
 we are done with the application
